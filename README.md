@@ -13,9 +13,9 @@ Este sitio web se diseño con los lenguajes de programación **HTML**, **CSS** y
 
 ## Pasos de Ejecución
 
-![App Screenshot](ASSETS/Screenshots/DISEÑO RESPONSIVE.png)
+![App Screenshot](ASSETS/Screenshots/DISEÑO%20RESPONSIVE.png)
 
-![App Screenshot](ASSETS/Screenshots/CODIGO JS.png)
+![App Screenshot](ASSETS/Screenshots/CODIGO%20JS.png)
 
 ![App Screenshot](ASSETS/Screenshots/RESULTADO%20FINAL.png)
 

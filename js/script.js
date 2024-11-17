@@ -4,10 +4,10 @@ let menuVisible = false; //variable que mantiene el estado del menu
 
 function mostrarOcultar(){
     if(menuVisible){
-        document.getElementById("nav").classList ="";
+        document.getElementById("bar").classList ="";
         menuVisible = false;
     }else{
-        document.getElementById("nav").classList ="responsive";
+        document.getElementById("bar").classList ="responsive";
         menuVisible = true;
     }
 }
@@ -15,6 +15,6 @@ function mostrarOcultar(){
 // funcion cuando el usuario quiera ocultar el menu cuando el selecciona una opcion
 
 function seleccionar(){
-    document.getElementById("nav").classList = "";
+    document.getElementById("bar").classList = "";
     menuVisible = false;
 }
